@@ -1,5 +1,5 @@
 # Algorithms1
-Divide and conquer, sorting and searching and randomized algorithms, Stanford University:
+Divide and conquer, sorting and searching and randomized algorithms, Stanford University.
 
 This is the first part of the [Algorithms Illuminated course](https://www.coursera.org/learn/algorithms-divide-conquer) taught by [Tim Roughgarden.](https://www.coursera.org/instructor/~768) It covers all of the algorithms in the book [Algorithms Illuminated Part I](https://www.amazon.com/Algorithms-Illuminated-Part-1-Basics-ebook/dp/B075YQP38X) and the first chapter of [Algorithms Illuminated part II.](https://www.amazon.com/Algorithms-Illuminated-Part-Graph-Structures-ebook/dp/B07G6X2XMG)
 
