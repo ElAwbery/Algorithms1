@@ -9,7 +9,7 @@ Algorithms practice included tests and a final exam on:
  - asymptotic notation
  - integer multiplication including Karatsuba
  - divide and conquer algorithms, including Strassen's matrix multiplication and closest pair in O(n logn)
- - the master method and proof
+ - the master method and its proof
  - quicksort, including randomized quicksort
  - RSelect and DSelect
  - graphs, DFS, BFS, connected components and min-cuts, including Karger's min-cut
