@@ -3,7 +3,7 @@
 """
 Created on Thu Jan 23 12:59:46 2020
 
-@author: Charlie
+@author: ElAwbery
 """
 
 """
@@ -171,49 +171,3 @@ test4 = {
         }
 
 karger_trial(test4)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
