@@ -3,7 +3,7 @@
 """
 Created on Thu Nov 28 10:18:23 2019
 
-@author: Charlie
+@author: ElAwbery
 """
 
 
@@ -29,11 +29,3 @@ def karatsuba(x,y):
         print(x, " * ", y, ": correct: ", x*y, " ours: " , result)
 
         return result
-
-
-
-
-
-
-
-
