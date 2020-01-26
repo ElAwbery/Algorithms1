@@ -14,6 +14,6 @@ Algorithms practice included tests and a final exam on:
  - RSelect and DSelect
  - graphs, DFS, BFS, connected components and min-cuts, including Karger's min-cut
  
- I [passed the final exam with 100%](https://www.coursera.org/account/accomplishments/certificate/JANQNW95VUBH)
+ I [passed the final exam](https://www.coursera.org/account/accomplishments/certificate/JANQNW95VUBH) with 100%
  
  
