@@ -3,7 +3,7 @@
 """
 Created on Fri Dec  6 16:07:02 2019
 
-@author: Charlie
+@author: ElAwbery
 """
 
 
@@ -24,14 +24,6 @@ def same_index_element(array):
     else:
         return(same_index_element(array[:midpoint]))
         
-    
-    
-        
-        
-    
-
-
-
 
 test = [1, 4, 8, 9]   
 test2 = [0]
