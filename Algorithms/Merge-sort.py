@@ -3,7 +3,7 @@
 """
 Created on Sun Nov 24 10:36:21 2019
 
-@author: Charlie
+@author: ElAwbery
 """
 
 # Brian Faure on youtube explains this well. 
@@ -44,24 +44,3 @@ def merge_sort(sequence):
         
 print(merge_sort([0, 1, 3, 8, 2, 7, 7, 14, 0, 45, 3, 8, 9])) 
         
-        
-    
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
