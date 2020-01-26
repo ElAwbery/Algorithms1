@@ -3,7 +3,7 @@
 """
 Created on Thu Dec 19 11:29:51 2019
 
-@author: Charlie
+@author: ElAwbery
 """
 
 """
@@ -78,20 +78,4 @@ for line in Quicksort_file.readlines()[0:10]:
     final.append(num)
     
 simple_quicksort(final)
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
 
