@@ -1,0 +1,17 @@
+Karger's randomized contraction algorithm:
+Only 20 years old, relatively recent. 
+Basic idea is to use random sampling. 
+One main loop: each iteration of the while loop decreases the number of vertices in the graph by 1. 
+Terminate when we get down to two remaining vertices. 
+Random sampling occurs inside the iteration of the while loop:
+ - amongst the remaining edges, choose one of them (u, v) uniformly at random. 
+ - the contraction is done on the chosen edge:
+ - take the two endpoints of the edge (call them vertex u and vertex v) and fuse (merge) them into a single vertex that represents both of them. 
+ - the merge may create parallel edges and it may create a self loop. 
+  Delete self loops as they arise. 
+ - Return the cut represented by the two final vertices. 
+
+ In effect, any edge between the two nodes you are contracting vanishes. 
+
+ The contraction sometimes returns a min cut and sometimes it does not. 
+  
