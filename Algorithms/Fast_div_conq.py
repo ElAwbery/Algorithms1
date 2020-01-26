@@ -3,7 +3,7 @@
 """
 Created on Fri Dec  6 14:03:35 2019
 
-@author: Charlie
+@author: ElAwbery
 """
 
 def inversions():
