@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Created on Thu Dec 19 14:36:44 2019
 
-@author: Charlie
+@author: ElAwbery
 """
 
 """
@@ -73,23 +71,3 @@ print("comparisons", comparison_count)
 print("final", final)
 print("result_array", quicksort_pivot_end(final))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
